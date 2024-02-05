@@ -1,7 +1,8 @@
 body {
+  color: white !important;
   margin: 0;
   font-family: "Courier New", Courier, monospace;
-  background: linear-gradient(to left, rgb(225, 76, 113), rgb(59, 1, 106));;
+  background: linear-gradient(to left, rgb(38, 179, 218), rgb(235, 8, 201));;
 }
 
 code {
